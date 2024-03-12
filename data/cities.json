@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Devgadh Bariya",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-01-11T18:42:34.933Z",
+      "notes": "dkmdkc",
+      "position": {
+        "lat": "22.573438264572406",
+        "lng": "73.91601562500001"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Yavatmal",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-02-10T11:32:23.739Z",
+      "notes": "jnda",
+      "position": {
+        "lat": "20.437307950568968",
+        "lng": "78.14025878906251"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Shirpur",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-02-10T11:32:53.978Z",
+      "notes": "clkdskld",
+      "position": {
+        "lat": "21.353339209476527",
+        "lng": "74.92126464843751"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Potsdam",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-02-10T17:02:40.198Z",
+      "notes": "df",
+      "position": {
+        "lat": "52.466050361889515",
+        "lng": "12.999572753906252"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Arni",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-03-12T18:49:54.128Z",
+      "notes": "wdwe",
+      "position": {
+        "lat": "20.10494407213445",
+        "lng": "77.98645019531251"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "Pusad",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-03-12T18:50:19.954Z",
+      "notes": "",
+      "position": {
+        "lat": "19.85714397875396",
+        "lng": "77.65136718750001"
+      },
+      "id": 98443206
+    }
+  ]
+}
